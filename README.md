@@ -1,24 +1,3 @@
-# README
+# Bootstrap Theme Freelancer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Tutorial by Jackson Pires on Medium Blog](https://medium.com/v%C3%ADdeos-de-ti/post-v%C3%ADdeo-migrando-um-template-html-para-o-ruby-on-rails-5970cf3ec78)
